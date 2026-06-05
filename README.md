@@ -1,5 +1,8 @@
 # 📊 Escopo do Projeto: Ciência de Dados
 
+## Link das aulas no Google Drive:
+https://drive.google.com/drive/folders/1T5xPKrNM9vQQgbgdVrUsWZRY4e2mCDeX?usp=sharing
+
 ## Módulo 1 (Versão Final)
 
 ---
